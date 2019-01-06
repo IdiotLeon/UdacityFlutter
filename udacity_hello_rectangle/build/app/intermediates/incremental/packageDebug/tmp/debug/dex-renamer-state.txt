@@ -1,0 +1,4 @@
+#Sun Jan 06 10:02:33 PST 2019
+base.0=/Users/leon/Documents/DevLeon/udacity_hello_rectangle/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
